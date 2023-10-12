@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jainish Gamit</h1>
 <h3 align="center">HTML to Happiness: Frontend Magic in Action</h3>
-
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainish1025&label=Profile%20views&color=0e75b6&style=flat" alt="jainish1025" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rk99000209" target="blank"><img src="https://img.shields.io/twitter/follow/rk99000209?logo=twitter&style=for-the-badge" alt="rk99000209" /></a> </p>
