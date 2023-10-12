@@ -26,3 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainish1025&show_icons=true&locale=en" alt="jainish1025" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainish1025&" alt="jainish1025" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aayushchouhan24/aayushchouhan24/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aayushchouhan24/aayushchouhan24/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
+</picture>
